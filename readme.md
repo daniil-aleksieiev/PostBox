@@ -1,5 +1,7 @@
 # PostBox App
 
+CRUD Application using *MERN Stack*
+
 ### To Run Project
 
 - api: `npm run server`
