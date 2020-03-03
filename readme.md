@@ -1,6 +1,6 @@
 # PostBox App
 
-CRUD Application using *MERN Stack*
+CRUD Application using **MERN Stack**
 
 ### To Run Project
 
